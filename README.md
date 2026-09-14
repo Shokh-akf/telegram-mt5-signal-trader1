@@ -159,3 +159,6 @@ Planned improvements may include:
 * Additional trading platforms
 * Improved signal parsing
 * Additional automation features
+
+Telegram: @ Serin_0504
+Gmail: tred7101@gmail.com
