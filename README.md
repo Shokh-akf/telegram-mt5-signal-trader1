@@ -160,6 +160,6 @@ Planned improvements may include:
 * Improved signal parsing
 * Additional automation features
 
-Telegram: @ Serin_0504
+Telegram:https://t.me/Serin_0504
 Gmail: tred7101@gmail.com
           
